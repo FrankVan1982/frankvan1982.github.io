@@ -16,3 +16,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+You can get +5$ of credits in v0 to create your website with the help from AI tools. Check out the link: [https://v0.app/ref/EG7T74](https://v0.app/ref/EG7T74)
